@@ -1,3 +1,6 @@
+#netlify hosting
+https://aplicationformanagement.netlify.app/login
+
 ## Membuat Proyek Aplikasi Kasir
 
 Arsitektur JAMStack dan Single Page Application, Fitur dan Halaman dari Aplikasi, membuat proyek SPA menggunakan Create React App, menggunakan fitur React Context dan Hooks, menggunakan library seperti Material UI, React Router DOM, React Firebase Hooks.
